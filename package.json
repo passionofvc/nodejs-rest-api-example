@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-rest-api-example",
+  "version": "1.0.0",
+  "description": "Example of Node.js REST API with data json",
+  "author": "passionofvc <yamada.passion@gmail.com>",
+  "main": "server.js",
+  "license": "MIT",
+  "repository": "https://github.com/passionofvc/nodejs-rest-api-example.git",
+  "scripts": {
+    "start": "node server.js 'APP=rest-api'"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.17.1"
+  }
+}
