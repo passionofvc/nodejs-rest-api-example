@@ -15,6 +15,23 @@ const shiken_days_api = require('./shiken_days_api.json');
 
 app.set("port", process.env.PORT || 5000);
 
+const allowCrossDomain = function(req, res, next) {
+  res.header('Access-Control-Allow-Origin', '*')
+  res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE')
+  res.header(
+    'Access-Control-Allow-Headers',
+    'Content-Type, Authorization, access_token'
+  )
+
+  // intercept OPTIONS method
+  if ('OPTIONS' === req.method) {
+    res.send(200)
+  } else {
+    next()
+  }
+}
+app.use(allowCrossDomain);
+
 
 app.get('/health', function (req, res) {
   res.json({ status: "OK" });
