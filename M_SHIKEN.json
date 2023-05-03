@@ -1,0 +1,20 @@
+[
+  {
+    "shiken_kubun" : "AP",
+    "shiken_name"  : "応用情報技術者試験",
+    "english_name" : "Applied Information Technology Engineer Examination",
+    "remarks"      : ""
+  },
+  {
+    "shiken_kubun" : "NW",
+    "shiken_name"  : "ネットワークスペシャリスト試験",
+    "english_name" : "Network Specialist Examination",
+    "remarks"      : ""
+  },
+  {
+    "shiken_kubun" : "DB",
+    "shiken_name"  : "データベーススペシャリスト試験",
+    "english_name" : "Database Specialist Examination",
+    "remarks"      : ""
+  }
+]
