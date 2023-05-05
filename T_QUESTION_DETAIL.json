@@ -1,38 +1,74 @@
 [
   {
-    "shiken_kubun" : "AP",
-    "shiken_day"   : "2023/04/16",
-    "day_kubun"    : "午前",
-    "que_no"       : 1,
-    "que_line_no"  : 1,
-    "que_line_attr" : "text",
-    "que_line_contents" : "0以上255以下の整数nに対して，"
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "1",
+    "que_line_no": "1",
+    "que_line_attr": "text",
+    "que_line_contents": "0以上255以下の整数nに対して，"
   },
   {
-    "shiken_kubun" : "AP",
-    "shiken_day"   : "2023/04/16",
-    "day_kubun"    : "午前",
-    "que_no"       : 1,
-    "que_line_no"  : 2,
-    "que_line_attr" : "picture",
-    "que_line_contents" : "q_01.gif/image-size:220×38"
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "1",
+    "que_line_no": "2",
+    "que_line_attr": "picture",
+    "que_line_contents": "q_01.gif/image-size:220×38"
   },
   {
-    "shiken_kubun" : "AP",
-    "shiken_day"   : "2023/04/16",
-    "day_kubun"    : "午前",
-    "que_no"       : 1,
-    "que_line_no"  : 3,
-    "que_line_attr" : "text",
-    "que_line_contents" : "と定義する。next(n)と等しい式はどれか。ここで，x AND y 及び x OR y は，それぞれxとyを2進数表現にして，桁ごとの論理積及び論理和をとったものとする。"
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "1",
+    "que_line_no": "3",
+    "que_line_attr": "text",
+    "que_line_contents": "と定義する。next(n)と等しい式はどれか。ここで，x AND y 及び x OR y は，それぞれxとyを2進数表現にして，桁ごとの論理積及び論理和をとったものとする。"
   },
   {
-    "shiken_kubun" : "AP",
-    "shiken_day"   : "2023/04/16",
-    "day_kubun"    : "午前",
-    "que_no"       : 2,
-    "que_line_no"  : 1,
-    "que_line_attr" : "text",
-    "que_line_contents" : "平均が60，標準偏差が10の正規分布を表すグラフはどれか。"
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "2",
+    "que_line_no": "1",
+    "que_line_attr": "text",
+    "que_line_contents": "平均が60，標準偏差が10の正規分布を表すグラフはどれか。"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "3",
+    "que_line_no": "1",
+    "que_line_attr": "text",
+    "que_line_contents": "AIにおける機械学習で，2クラス分類モデルの評価方法として用いられるROC曲線の説明として，適切なものはどれか。"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "4",
+    "que_line_no": "1",
+    "que_line_attr": "text",
+    "que_line_contents": "ドップラー効果を応用したセンサーで測定できるものはどれか。"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "5",
+    "que_line_no": "1",
+    "que_line_attr": "text",
+    "que_line_contents": "要求に応じて可変量のメモリを割り当てるメモリ管理方式がある。要求量以上の大きさをもつ空き領域のうちで最小のものを割り当てる最適適合(best-fit)アルゴリズムを用いる場合，空き領域を管理するためのデータ構造として，メモリ割当て時の平均処理時間が最も短いものはどれか。"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "6",
+    "que_line_no": "1",
+    "que_line_attr": "text",
+    "que_line_contents": "従業員番号と氏名の対がn件格納されている表に線形探索法を用いて，与えられた従業員番号から氏名を検索する。この処理における平均比較回数を求める式はどれか。ここで，検索する従業員番号はランダムに出現し，探索は常に表の先頭から行う。また，与えられた従業員番号がこの表に存在しない確率をaとする。"
   }
 ]

@@ -1,20 +1,68 @@
 [
-    {
-     "shiken_kubun" : "AP",
-     "shiken_day"  : "2023/04/16",
-     "day_kubun"   : "午前",
-     "shiken_wareki" : "令和5年春期",
-     "que_no"      : 1,
-     "correct_ans_no" : 1,
-     "catergory"     : "離散数学"
-    },
-    {
-     "shiken_kubun" : "AP",
-     "shiken_day"  : "2023/04/16",
-     "day_kubun"   : "午前",
-     "shiken_wareki" : "令和5年春期",
-     "que_no"      : 2,
-     "correct_ans_no" : 1,
-     "catergory"     : "応用数学"
-    }
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "1",
+    "shiken_wareki": "令和5年春期",
+    "correct_ans_no": "ア",
+    "catergory": "テクノロジ系 » 基礎理論 »離散数学",
+    "keywords": "",
+    "difficulty": "1"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "2",
+    "shiken_wareki": "令和5年春期",
+    "correct_ans_no": "ア",
+    "catergory": "テクノロジ系 » 基礎理論 »応用数学",
+    "keywords": "",
+    "difficulty": "1"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "3",
+    "shiken_wareki": "令和5年春期",
+    "correct_ans_no": "ア",
+    "catergory": "テクノロジ系 » 基礎理論 »情報に関する理論",
+    "keywords": "",
+    "difficulty": "1"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "4",
+    "shiken_wareki": "令和5年春期",
+    "correct_ans_no": "ウ",
+    "catergory": "テクノロジ系 » 基礎理論 »計測・制御に関する理論",
+    "keywords": "",
+    "difficulty": "1"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "5",
+    "shiken_wareki": "令和5年春期",
+    "correct_ans_no": "ウ",
+    "catergory": "テクノロジ系 » アルゴリズムとプログラミング »データ構造",
+    "keywords": "",
+    "difficulty": "1"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "6",
+    "shiken_wareki": "令和5年春期",
+    "correct_ans_no": "エ",
+    "catergory": "テクノロジ系 » アルゴリズムとプログラミング » アルゴリズム",
+    "keywords": "",
+    "difficulty": "1"
+  }
 ]

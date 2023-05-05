@@ -1,20 +1,86 @@
 [
   {
-    "shiken_kubun" : "AP",
-    "shiken_name"  : "応用情報技術者試験",
-    "english_name" : "Applied Information Technology Engineer Examination",
-    "remarks"      : ""
+    "shiken_kubun": "IP",
+    "shiken_name": "ITパスポート試験",
+    "english_name": "Information Technology Passport Examination",
+    "shiken_period": "随時",
+    "remarks": ""
   },
   {
-    "shiken_kubun" : "NW",
-    "shiken_name"  : "ネットワークスペシャリスト試験",
-    "english_name" : "Network Specialist Examination",
-    "remarks"      : ""
+    "shiken_kubun": "SG",
+    "shiken_name": "情報セキュリティマネジメント試験",
+    "english_name": "Information Security Management Examination",
+    "shiken_period": "随時",
+    "remarks": "平成28年度から"
   },
   {
-    "shiken_kubun" : "DB",
-    "shiken_name"  : "データベーススペシャリスト試験",
-    "english_name" : "Database Specialist Examination",
-    "remarks"      : ""
+    "shiken_kubun": "FE",
+    "shiken_name": "基本情報技術者試験",
+    "english_name": "Fundamental Information Technology Engineer Examination",
+    "shiken_period": "随時",
+    "remarks": ""
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_name": "応用情報技術者試験",
+    "english_name": "Applied Information Technology Engineer Examination",
+    "shiken_period": "春期・秋期",
+    "remarks": ""
+  },
+  {
+    "shiken_kubun": "ST",
+    "shiken_name": "ITストラテジスト試験",
+    "english_name": "Information Technology Strategist Examination",
+    "shiken_period": "春期",
+    "remarks": ""
+  },
+  {
+    "shiken_kubun": "SA",
+    "shiken_name": "システムアーキテクト試験",
+    "english_name": "Systems Architect Examination",
+    "shiken_period": "春期",
+    "remarks": ""
+  },
+  {
+    "shiken_kubun": "PM",
+    "shiken_name": "プロジェクトマネージャ試験",
+    "english_name": "Project Manager Examination",
+    "shiken_period": "秋期",
+    "remarks": ""
+  },
+  {
+    "shiken_kubun": "DB",
+    "shiken_name": "データベーススペシャリスト試験",
+    "english_name": "Database Specialist Examination",
+    "shiken_period": "秋期",
+    "remarks": ""
+  },
+  {
+    "shiken_kubun": "ES",
+    "shiken_name": "エンベデッドシステムスペシャリスト試験",
+    "english_name": "Embedded Systems Specialist Examination",
+    "shiken_period": "秋期",
+    "remarks": ""
+  },
+  {
+    "shiken_kubun": "SM",
+    "shiken_name": "ITサービスマネージャ試験",
+    "english_name": "Information Technology Service Manager Examination",
+    "shiken_period": "春期",
+    "remarks": ""
+  },
+  {
+    "shiken_kubun": "AU",
+    "shiken_name": "システム監査技術者試験",
+    "english_name": "Systems Auditor Examination",
+    "shiken_period": "秋期",
+    "remarks": ""
+  },
+  {
+    "shiken_kubun": "SC",
+    "shiken_name": "情報処理安全確保支援士試験",
+    "english_name": "Registered Information Security Specialist Examination",
+    "shiken_period": "春期・秋期",
+    "remarks": "平成29年度から"
   }
 ]

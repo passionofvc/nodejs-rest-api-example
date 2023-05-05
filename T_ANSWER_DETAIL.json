@@ -1,75 +1,218 @@
 [
- {
-  "shiken_kubun" : "AP",
-  "shiken_day"   : "2023/04/16",
-  "day_kubun"    : "午前",
-  "que_no"       : 1,
-  "ans_no"       : 1,
-  "ans_attr"     : "text",
-  "ans_contents" : "(n＋1) AND 255"
- },
- {
-  "shiken_kubun" : "AP",
-  "shiken_day"   : "2023/04/16",
-  "day_kubun"    : "午前",
-  "que_no"       : 1,
-  "ans_no"       : 2,
-  "ans_attr"     : "text",
-  "ans_contents" : "(n＋1) AND 256"
- },
- {
-  "shiken_kubun" : "AP",
-  "shiken_day"   : "2023/04/16",
-  "day_kubun"    : "午前",
-  "que_no"       : 1,
-  "ans_no"       : 3,
-  "ans_attr"     : "text",
-  "ans_contents" : "(n＋1) OR 255"
- },
- {
-  "shiken_kubun" : "AP",
-  "shiken_day"   : "2023/04/16",
-  "day_kubun"    : "午前",
-  "que_no"       : 1,
-  "ans_no"       : 4,
-  "ans_attr"     : "text",
-  "ans_contents" : "(n＋1) OR 256"
- },
-
- {
-  "shiken_kubun" : "AP",
-  "shiken_day"   : "2023/04/16",
-  "day_kubun"    : "午前",
-  "que_no"       : 2,
-  "ans_no"       : 1,
-  "ans_attr"     : "picture",
-  "ans_contents" : "a_01.gif/image-size:191×139"
- },
- {
-  "shiken_kubun" : "AP",
-  "shiken_day"   : "2023/04/16",
-  "day_kubun"    : "午前",
-  "que_no"       : 2,
-  "ans_no"       : 2,
-  "ans_attr"     : "picture",
-  "ans_contents" : "a_02.gif/image-size:188×139"
- },
- {
-  "shiken_kubun" : "AP",
-  "shiken_day"   : "2023/04/16",
-  "day_kubun"    : "午前",
-  "que_no"       : 2,
-  "ans_no"       : 3,
-  "ans_attr"     : "picture",
-  "ans_contents" : "a_03.gif/image-size:192×140"
- },
- {
-  "shiken_kubun" : "AP",
-  "shiken_day"   : "2023/04/16",
-  "day_kubun"    : "午前",
-  "que_no"       : 2,
-  "ans_no"       : 4,
-  "ans_attr"     : "picture",
-  "ans_contents" : "a_04.gif/image-size:188×140"
- }
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "1",
+    "ans_no": "ア",
+    "ans_attr": "text",
+    "ans_contents": "(n＋1) AND 255"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "1",
+    "ans_no": "イ",
+    "ans_attr": "text",
+    "ans_contents": "(n＋1) AND 256"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "1",
+    "ans_no": "ウ",
+    "ans_attr": "text",
+    "ans_contents": "(n＋1) OR 255"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "1",
+    "ans_no": "エ",
+    "ans_attr": "text",
+    "ans_contents": "(n＋1) OR 256"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "2",
+    "ans_no": "ア",
+    "ans_attr": "picture",
+    "ans_contents": "a_01.gif/image-size:191×139"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "2",
+    "ans_no": "イ",
+    "ans_attr": "picture",
+    "ans_contents": "a_02.gif/image-size:188×139"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "2",
+    "ans_no": "ウ",
+    "ans_attr": "picture",
+    "ans_contents": "a_03.gif/image-size:192×140"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "2",
+    "ans_no": "エ",
+    "ans_attr": "picture",
+    "ans_contents": "a_04.gif/image-size:188×140"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "3",
+    "ans_no": "ア",
+    "ans_attr": "text",
+    "ans_contents": "真陽性率と偽陽性率の関係を示す曲線である。"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "3",
+    "ans_no": "イ",
+    "ans_attr": "text",
+    "ans_contents": "真陽性率と適合率の関係を示す曲線である。"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "3",
+    "ans_no": "ウ",
+    "ans_attr": "text",
+    "ans_contents": "正解率と適合率の関係を示す曲線である。"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "3",
+    "ans_no": "エ",
+    "ans_attr": "text",
+    "ans_contents": "適合率と偽陽性率の関係を示す曲線である。"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "4",
+    "ans_no": "ア",
+    "ans_attr": "text",
+    "ans_contents": "血中酸素飽和度"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "4",
+    "ans_no": "イ",
+    "ans_attr": "text",
+    "ans_contents": "血糖値"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "4",
+    "ans_no": "ウ",
+    "ans_attr": "text",
+    "ans_contents": "血流量"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "4",
+    "ans_no": "エ",
+    "ans_attr": "text",
+    "ans_contents": "体内水分量"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "5",
+    "ans_no": "ア",
+    "ans_attr": "text",
+    "ans_contents": "空き領域のアドレスをキーとする2分探索木"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "5",
+    "ans_no": "イ",
+    "ans_attr": "text",
+    "ans_contents": "空き領域の大きさが小さい順の片方向連結リスト"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "5",
+    "ans_no": "ウ",
+    "ans_attr": "text",
+    "ans_contents": "空き領域の大きさをキーとする2分探索木"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "5",
+    "ans_no": "エ",
+    "ans_attr": "text",
+    "ans_contents": "アドレスに対応したビットマップ"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "6",
+    "ans_no": "ア",
+    "ans_attr": "picture",
+    "ans_contents": "a_01.png/image-size:190×120"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "6",
+    "ans_no": "イ",
+    "ans_attr": "picture",
+    "ans_contents": "a_02.png/image-size:190×120"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "6",
+    "ans_no": "ウ",
+    "ans_attr": "picture",
+    "ans_contents": "a_03.png/image-size:190×120"
+  },
+  {
+    "shiken_kubun": "AP",
+    "shiken_day": "2023/04/16",
+    "day_kubun": "午前",
+    "que_no": "6",
+    "ans_no": "エ",
+    "ans_attr": "picture",
+    "ans_contents": "a_04.png/image-size:220×120"
+  }
 ]
