@@ -15,7 +15,7 @@
     "que_no"       : 1,
     "que_line_no"  : 2,
     "que_line_attr" : "picture",
-    "que_line_contents" : "01.gif/image-size:220×38"
+    "que_line_contents" : "q_01.gif/image-size:220×38"
   },
   {
     "shiken_kubun" : "AP",
@@ -25,5 +25,14 @@
     "que_line_no"  : 3,
     "que_line_attr" : "text",
     "que_line_contents" : "と定義する。next(n)と等しい式はどれか。ここで，x AND y 及び x OR y は，それぞれxとyを2進数表現にして，桁ごとの論理積及び論理和をとったものとする。"
+  },
+  {
+    "shiken_kubun" : "AP",
+    "shiken_day"   : "2023/04/16",
+    "day_kubun"    : "午前",
+    "que_no"       : 2,
+    "que_line_no"  : 1,
+    "que_line_attr" : "text",
+    "que_line_contents" : "平均が60，標準偏差が10の正規分布を表すグラフはどれか。"
   }
 ]
