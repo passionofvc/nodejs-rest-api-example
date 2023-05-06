@@ -5,6 +5,7 @@
     "day_kubun": "午前",
     "que_no": "1",
     "ans_no": "ア",
+    "is_correct_ans" : "true",
     "ans_attr": "text",
     "ans_contents": "(n＋1) AND 255"
   },
@@ -14,6 +15,7 @@
     "day_kubun": "午前",
     "que_no": "1",
     "ans_no": "イ",
+    "is_correct_ans" : "false",
     "ans_attr": "text",
     "ans_contents": "(n＋1) AND 256"
   },
@@ -23,6 +25,7 @@
     "day_kubun": "午前",
     "que_no": "1",
     "ans_no": "ウ",
+    "is_correct_ans" : "false",
     "ans_attr": "text",
     "ans_contents": "(n＋1) OR 255"
   },
@@ -32,15 +35,18 @@
     "day_kubun": "午前",
     "que_no": "1",
     "ans_no": "エ",
+    "is_correct_ans" : "false",
     "ans_attr": "text",
     "ans_contents": "(n＋1) OR 256"
   },
+
   {
     "shiken_kubun": "AP",
     "shiken_day": "2023/04/16",
     "day_kubun": "午前",
     "que_no": "2",
     "ans_no": "ア",
+    "is_correct_ans" : "true",
     "ans_attr": "picture",
     "ans_contents": "a_01.gif/image-size:191×139"
   },
@@ -50,6 +56,7 @@
     "day_kubun": "午前",
     "que_no": "2",
     "ans_no": "イ",
+    "is_correct_ans" : "false",
     "ans_attr": "picture",
     "ans_contents": "a_02.gif/image-size:188×139"
   },
@@ -59,6 +66,7 @@
     "day_kubun": "午前",
     "que_no": "2",
     "ans_no": "ウ",
+    "is_correct_ans" : "false",
     "ans_attr": "picture",
     "ans_contents": "a_03.gif/image-size:192×140"
   },
@@ -68,15 +76,18 @@
     "day_kubun": "午前",
     "que_no": "2",
     "ans_no": "エ",
+    "is_correct_ans" : "false",
     "ans_attr": "picture",
     "ans_contents": "a_04.gif/image-size:188×140"
   },
+
   {
     "shiken_kubun": "AP",
     "shiken_day": "2023/04/16",
     "day_kubun": "午前",
     "que_no": "3",
     "ans_no": "ア",
+    "is_correct_ans" : "true",
     "ans_attr": "text",
     "ans_contents": "真陽性率と偽陽性率の関係を示す曲線である。"
   },
@@ -86,6 +97,7 @@
     "day_kubun": "午前",
     "que_no": "3",
     "ans_no": "イ",
+    "is_correct_ans" : "false",
     "ans_attr": "text",
     "ans_contents": "真陽性率と適合率の関係を示す曲線である。"
   },
@@ -95,6 +107,7 @@
     "day_kubun": "午前",
     "que_no": "3",
     "ans_no": "ウ",
+    "is_correct_ans" : "false",
     "ans_attr": "text",
     "ans_contents": "正解率と適合率の関係を示す曲線である。"
   },
@@ -104,15 +117,18 @@
     "day_kubun": "午前",
     "que_no": "3",
     "ans_no": "エ",
+    "is_correct_ans" : "false",
     "ans_attr": "text",
     "ans_contents": "適合率と偽陽性率の関係を示す曲線である。"
   },
+
   {
     "shiken_kubun": "AP",
     "shiken_day": "2023/04/16",
     "day_kubun": "午前",
     "que_no": "4",
     "ans_no": "ア",
+    "is_correct_ans" : "false",
     "ans_attr": "text",
     "ans_contents": "血中酸素飽和度"
   },
@@ -122,6 +138,7 @@
     "day_kubun": "午前",
     "que_no": "4",
     "ans_no": "イ",
+    "is_correct_ans" : "false",
     "ans_attr": "text",
     "ans_contents": "血糖値"
   },
@@ -131,6 +148,7 @@
     "day_kubun": "午前",
     "que_no": "4",
     "ans_no": "ウ",
+    "is_correct_ans" : "true",
     "ans_attr": "text",
     "ans_contents": "血流量"
   },
@@ -140,15 +158,18 @@
     "day_kubun": "午前",
     "que_no": "4",
     "ans_no": "エ",
+    "is_correct_ans" : "false",
     "ans_attr": "text",
     "ans_contents": "体内水分量"
   },
+
   {
     "shiken_kubun": "AP",
     "shiken_day": "2023/04/16",
     "day_kubun": "午前",
     "que_no": "5",
     "ans_no": "ア",
+    "is_correct_ans" : "false",
     "ans_attr": "text",
     "ans_contents": "空き領域のアドレスをキーとする2分探索木"
   },
@@ -158,6 +179,7 @@
     "day_kubun": "午前",
     "que_no": "5",
     "ans_no": "イ",
+    "is_correct_ans" : "false",
     "ans_attr": "text",
     "ans_contents": "空き領域の大きさが小さい順の片方向連結リスト"
   },
@@ -167,6 +189,7 @@
     "day_kubun": "午前",
     "que_no": "5",
     "ans_no": "ウ",
+    "is_correct_ans" : "true",
     "ans_attr": "text",
     "ans_contents": "空き領域の大きさをキーとする2分探索木"
   },
@@ -176,15 +199,18 @@
     "day_kubun": "午前",
     "que_no": "5",
     "ans_no": "エ",
+    "is_correct_ans" : "false",
     "ans_attr": "text",
     "ans_contents": "アドレスに対応したビットマップ"
   },
+
   {
     "shiken_kubun": "AP",
     "shiken_day": "2023/04/16",
     "day_kubun": "午前",
     "que_no": "6",
     "ans_no": "ア",
+    "is_correct_ans" : "false",
     "ans_attr": "picture",
     "ans_contents": "a_01.png/image-size:190×120"
   },
@@ -194,6 +220,7 @@
     "day_kubun": "午前",
     "que_no": "6",
     "ans_no": "イ",
+    "is_correct_ans" : "false",
     "ans_attr": "picture",
     "ans_contents": "a_02.png/image-size:190×120"
   },
@@ -203,6 +230,7 @@
     "day_kubun": "午前",
     "que_no": "6",
     "ans_no": "ウ",
+    "is_correct_ans" : "false",
     "ans_attr": "picture",
     "ans_contents": "a_03.png/image-size:190×120"
   },
@@ -212,6 +240,7 @@
     "day_kubun": "午前",
     "que_no": "6",
     "ans_no": "エ",
+    "is_correct_ans" : "true",
     "ans_attr": "picture",
     "ans_contents": "a_04.png/image-size:220×120"
   }
