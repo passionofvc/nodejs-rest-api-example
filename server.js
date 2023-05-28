@@ -66,7 +66,7 @@ app.get('/api/get_shiken_day_kubuns', function (req, res) {
   const data = T_SHIKEN_QUESTIONS.filter( (data) =>  (data.shiken_kubun == shiken_kubun && data.shiken_day == shiken_day) );
   const day_kubuns = data.map(  (data)=> data.day_kubun );
   res.writeHead(200, {'Content-Type': 'application/json'});
-  res.end( JSON.stringify( uniq(day_kubuns) ) );
+  res.end( JSON.stringify( uniqueArray(day_kubuns) ) );
 })
 
 app.get('/api/get_question', function (req, res) {
@@ -109,9 +109,9 @@ var server = app.listen(app.get("port"), function () {
 
 });
 
-function uniq(array) {
-  return array.filter((elem, index, self) => self.indexOf(elem) === index);
-}
+const uniqueArray = arr =>
+    [...new Set(arr.map(o => JSON.stringify(o)))]
+        .map( s => JSON.parse(s) );
 
 function get_one_question(
      shiken_kubun,
